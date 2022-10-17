@@ -24,14 +24,14 @@ function Projects() {
           <Carousel.Item style={{ textAlign: 'center' }}>
             <img
               style={{ width: "auto", height: "400px" }}
-              src="/Web.png"
+              src="./Web.png"
               alt="First slide"
             />
           </Carousel.Item>
           <Carousel.Item style={{ textAlign: 'center' }}>
             <img
               style={{ width: "auto", height: "400px" }}
-              src="/ProjectScreen.png"
+              src="./ProjectScreen.png"
               alt="Second slide"
             />
           </Carousel.Item>

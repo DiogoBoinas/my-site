@@ -8,7 +8,7 @@ function PersonalInfo() {
         <div style={{ marginTop: 20, display: 'flex', flexDirection: 'row', justifyContent: 'space-evenly' }}>
             <Card style={{ height: "460px" }} shadow="sm" p="lg" radius="md" withBorder>
                 <Center>
-                    <Avatar style={{ marginLeft: 20 }} size="xl" radius={600} src={"/avatar.jpg"} alt="Diogo Boinas" />
+                    <Avatar style={{ marginLeft: 20 }} size="xl" radius={600} src={"./avatar.jpg"} alt="Diogo Boinas" />
                     <div style={{ marginLeft: 20, display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
                         <Text weight={500} size="lg">Diogo Boinas</Text>
                         <Text color={"dimmed"}>
